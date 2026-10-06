@@ -13,7 +13,7 @@
   <a href="mailto:saqibvevo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=msaqib0&label=Profile+views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+<img src="https://hits.sh/github.com/msaqib0.svg?label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/msaqib0?label=Followers&style=for-the-badge&logo=github&color=5eead4&labelColor=0b1122" alt="Followers" />
 <img src="https://img.shields.io/github/stars/msaqib0?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=fbbf24&labelColor=0b1122" alt="Stars" />
 
