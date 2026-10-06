@@ -79,7 +79,7 @@ I'm an **AI / ML Engineer** with 3 years of experience building and deploying **
 | **NUST Information Chatbot** | BERT fine-tuned in PyTorch for intent classification, guided by n-gram analysis | Modular prediction and deployment components |
 | **Hydrodynamic Flood Modeling** | DEM + AOI shapefiles to HEC-RAS meshes mapping flow paths and flood-prone zones | QGIS, Google Earth Engine, HEC-RAS workflow |
 | **Gender Detection from Handwriting** | VGG16 feature extraction on a handwriting dataset curated at NUST | Classification performance optimization |
-| **Adversarial Defense with Diffusion Models** | Research on diffusion-based defenses to improve image security | Ongoing at NCIL Lab |
+| **Adversarial Defense with Diffusion Models** | Research on diffusion-based defenses to improve image security | Ongoing |
 
 > More at **[my portfolio](https://msaqib1.vercel.app/)**.
 
