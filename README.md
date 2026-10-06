@@ -1,10 +1,3 @@
-<!--
-  BEFORE YOU COMMIT, replace these 3 placeholders (Ctrl+F each one):
-    YOUR-LINKEDIN-ID        -> the part after linkedin.com/in/
-    YOUR-PORTFOLIO.vercel.app -> your deployed portfolio URL
-    YOUR-HF-USERNAME        -> your Hugging Face username
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1122,50:1e3a5f,100:8b5cf6&height=210&section=header&text=Muhammad%20Saqib%20Irshad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20Machine%20Learning%20Engineer&descSize=20&descAlignY=58" alt="Header" />
@@ -14,9 +7,9 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-saqib-irshad-1931232b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://YOUR-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-5EEAD4?style=for-the-badge&logo=vercel&logoColor=0b1122" alt="Portfolio" /></a>
-  <a href="https://huggingface.co/YOUR-HF-USERNAME"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://huggingface.co/saqiibb"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="mailto:saqibvevo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -175,9 +168,9 @@ I'm open to **AI / ML engineering roles, research collaborations and challenging
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5EEAD4?style=flat-square&logo=vercel&logoColor=0b1122)](https://YOUR-PORTFOLIO.vercel.app)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Follow-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/YOUR-HF-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-saqib-irshad-1931232b0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5EEAD4?style=flat-square&logo=vercel&logoColor=0b1122)](https://msaqib1.vercel.app/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Follow-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/saqiibb)
 [![Email](https://img.shields.io/badge/Email-saqibvevo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saqibvevo@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:1e3a5f,100:0b1122&height=110&section=footer" alt="Footer" />
