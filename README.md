@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/muhammad-saqib-irshad-1931232b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://YOUR-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-5EEAD4?style=for-the-badge&logo=vercel&logoColor=0b1122" alt="Portfolio" /></a>
+  <a href="https://msaqib1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5EEAD4?style=for-the-badge&logo=vercel&logoColor=0b1122" alt="Portfolio" /></a>
   <a href="https://huggingface.co/saqiibb"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="mailto:saqibvevo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
